@@ -253,7 +253,7 @@ jobs:
             ver: "apk"
 
           - platform: aarch64_cortex-a72
-            url_sdk: https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2711/openwrt-sdk-bcm27xx-bcm2711_gcc-14.3.0_musl.Linux-x86_64.tar.zst
+            url_sdk: https://downloads.openwrt.org/releases/25.12.2/targets/bcm27xx/bcm2711/openwrt-sdk-25.12.2-bcm27xx-bcm2711_gcc-14.3.0_musl.Linux-x86_64.tar.zst
             ver: "apk"
 
           - platform: aarch64_cortex-a76
